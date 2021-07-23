@@ -1,0 +1,13 @@
+#capgemini-logo {
+    background: url("/assets/images/capgemini-logo.svg") no-repeat top right;
+    width: 200px;
+    height: 100px;
+}
+
+html:not(.dark) {
+    /* light mode css here */
+}
+  
+html.dark {
+/* dark mode css here */
+}
